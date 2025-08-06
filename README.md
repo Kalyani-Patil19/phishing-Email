@@ -20,7 +20,7 @@ The task involved identifying phishing indicators from a fake email and analyzin
 
 ---
 
-## ðŸ“‚ Files Included
+##  Files Included
 
 | File Name                    | Description |
 |-----------------------------|-------------|
